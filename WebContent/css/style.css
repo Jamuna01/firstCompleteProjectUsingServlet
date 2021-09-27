@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body 
+{
+	background: #e2e2e2;
+}
+.primary-background
+{
+	background-color: #4a148c;
+}
+.btn
+{
+	background-color: #4a148c;
+}
+.backpage
+{
+	background-color:  #e2e2e2;
+	padding: 45px;
+}
+.modal-header
+{
+	background-color: #4a148c;
+}
